@@ -1,0 +1,73 @@
+Info: Processing symbol 'R1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'X1:Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering'.
+Info: Processing symbol 'U1:Package_QFP:TQFP-44_10x10mm_P0.8mm'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_TL3342'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'K4:Button_Switch_Keyboard:SW_Matias_1.00u'.
+Info: Processing symbol 'K3:Button_Switch_Keyboard:SW_Matias_1.00u'.
+Info: Processing symbol 'K2:Button_Switch_Keyboard:SW_Matias_1.00u'.
+Info: Processing symbol 'K1:Button_Switch_Keyboard:SW_Matias_1.00u'.
+Info: Processing symbol 'D4:keyboard_parts:D_SOD123_axial'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:keyboard_parts:D_SOD123_axial'.
+Info: Processing symbol 'D2:keyboard_parts:D_SOD123_axial'.
+Info: Processing symbol 'D3:keyboard_parts:D_SOD123_axial'.
+Info: Processing symbol 'J1:keyboard_parts:USB_miniB_hirose_5S8'.
+Connected U1 pin 28 to unconnected-(U1-Pad28).
+Connected U1 pin 16 to Net-(C1-Pad1).
+Connected U1 pin 29 to unconnected-(U1-Pad29).
+Connected U1 pin 30 to unconnected-(U1-Pad30).
+Connected U1 pin 31 to unconnected-(U1-Pad31).
+Connected U1 pin 32 to unconnected-(U1-Pad32).
+Connected U1 pin 33 to Net-(R2-Pad1).
+Connected U1 pin 34 to VUSB.
+Connected U1 pin 35 to +5V.
+Add net unconnected-(U1-Pad36).
+Connected U1 pin 36 to unconnected-(U1-Pad36).
+Add net unconnected-(U1-Pad37).
+Connected U1 pin 37 to unconnected-(U1-Pad37).
+Connected U1 pin 38 to col2.
+Connected U1 pin 39 to col1.
+Connected U1 pin 40 to row2.
+Connected U1 pin 41 to row1.
+Add net unconnected-(U1-Pad42).
+Connected U1 pin 42 to unconnected-(U1-Pad42).
+Connected U1 pin 43 to +5V.
+Connected U1 pin 44 to VUSB.
+Changed X1 footprint from 'Connector_USB:USB_Micro-B_Amphenol_10104110_Horizontal' to 'Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering'.
+Connected U1 pin 26 to unconnected-(U1-Pad26).
+Changed U1 footprint from 'Crystal:Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering' to 'Package_QFP:TQFP-44_10x10mm_P0.8mm'.
+Connected U1 pin 5 to +5V.
+Connected U1 pin 6 to Net-(C8-Pad1).
+Connected U1 pin 7 to unconnected-(U1-Pad7).
+Connected U1 pin 8 to unconnected-(U1-Pad8).
+Connected U1 pin 9 to unconnected-(U1-Pad9).
+Connected U1 pin 10 to unconnected-(U1-Pad10).
+Connected U1 pin 11 to unconnected-(U1-Pad11).
+Connected U1 pin 12 to unconnected-(U1-Pad12).
+Connected U1 pin 13 to Net-(R1-Pad2).
+Connected U1 pin 14 to VUSB.
+Connected U1 pin 15 to +5V.
+Connected U1 pin 17 to Net-(C2-Pad1).
+Connected U1 pin 18 to unconnected-(U1-Pad18).
+Connected U1 pin 19 to unconnected-(U1-Pad19).
+Connected U1 pin 20 to unconnected-(U1-Pad20).
+Connected U1 pin 21 to unconnected-(U1-Pad21).
+Connected U1 pin 22 to unconnected-(U1-Pad22).
+Connected U1 pin 23 to +5V.
+Connected U1 pin 24 to VUSB.
+Connected U1 pin 25 to unconnected-(U1-Pad25).
+Connected U1 pin 27 to unconnected-(U1-Pad27).
+Warning: No net found for symbol X1 pin 4.
+
+
+Info: Total warnings: 0, errors: 0.
