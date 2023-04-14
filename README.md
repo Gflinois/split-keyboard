@@ -11,7 +11,7 @@ This Git project contains everything that is needed for the construction of spli
 - the driver module to use it on windows
 
 ## Layout
-![layout.png](big L mec) 
+![big L mec](layout.png) 
 
 ## Electronic specifiactions
 
